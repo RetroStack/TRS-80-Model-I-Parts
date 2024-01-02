@@ -36,7 +36,7 @@ Below is a list of available items, each with a link to a more detailed descript
 
 ### Shield
 
-[![Keyboard Shield](/Keyboard_Shield/Thumb.png)](/Keyboard_Shield/)
+[![Keyboard Shield](/Keyboard_Shield/Thumb.JPG)](/Keyboard_Shield/)
 
 ## Extension Interface
 
