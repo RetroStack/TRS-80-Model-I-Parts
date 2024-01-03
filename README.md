@@ -46,6 +46,22 @@ Below is a list of available items, each with a link to a more detailed descript
 
 NOTE: There are three types of covers used: small, medium, and large. I only have the medium, and therefore, only that was digitized.
 
+## External Links
+
+- [Thingiverse - Expansion Interface Port Cover](https://www.thingiverse.com/thing:3330282)
+- [Thingiverse - Various port covers](https://www.thingiverse.com/thing:3925677)
+- [Thingiverse - Expansion Interface Power Supply Cover](https://www.thingiverse.com/thing:6117675)
+- [Thingiverse - Power Supply Case](https://www.thingiverse.com/thing:6273822)
+- [Thingiverse - Expansion Interface PCB Case](https://www.thingiverse.com/thing:5742225)
+- [Thingiverse - Replacement Screw Post](https://www.thingiverse.com/thing:3202410)
+- [Thingiverse - Keyboard Spacer](https://www.thingiverse.com/thing:3764548)
+- [Thingiverse - Screw Standoffs Plate](https://www.thingiverse.com/thing:3010034)
+- [Thingiverse - Level II Upgrade PCB Mount](https://www.thingiverse.com/thing:3252566)
+
+- [Thingiverse - Mini Model 1](https://www.thingiverse.com/thing:3155677)
+- [Thingiverse - Mini Model 2](https://www.thingiverse.com/thing:3497435)
+- [Thingiverse - Mini Model 3](https://www.thingiverse.com/thing:4476778)
+
 ## Missing Item?
 
 It seems like an item you need is missing. If so, you can request it on my Patreon page (see below). However, if I do not have the item myself, then I won't be able to digitize it.
