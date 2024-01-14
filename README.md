@@ -1,4 +1,4 @@
-# TRS-80 Model 1 - Replica Items - 3D Printer
+# TRS-80 Model 1 - Parts
 
 This project includes various items that were part of a TRS-80 Model 1 and have been replicated for 3D printing. Over time, things get lost or break, and this repository was created to provide a way to recover these lost items. The entire project is available under the MIT license.
 
