@@ -69,3 +69,10 @@ See the assembly and disassembly instructions below.
 5. Fit the stem through the hole and gently press together until the flaps click in.
 
 ![Step 3](Images/IMG_1142_Small.png)
+
+
+## Changelog
+
+### 21st Jan 2024
+
+- Thinning of stem: needed filing to not get stuck

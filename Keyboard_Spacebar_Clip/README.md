@@ -13,6 +13,13 @@ Unfortunately, the metal rod is easily lost. Below is also a description of how 
 
 [STL](Keyboard_Spacebar_Clip.stl)
 
+## 3D Printer-Friendly STL
+
+![View 1](Images/Keyboard_Spacebar_Clip_Printable_1.png)
+![View 2](Images/Keyboard_Spacebar_Clip_Printable_2.png)
+
+[STL](Keyboard_Spacebar_Clip_Printable.stl)
+
 ### Print Instructions
 
 - Lay the clip on either of its longer sides.
@@ -47,11 +54,20 @@ Unfortunately, the metal rod is easily lost. Below is also a description of how 
 
 ## Metal Rod
 
-![Rod](Images/IMG_1190_Small.png)
+![Rod](Images/IMG_Rod_Small.png)
 
-1. Cut a 1.6 mm rod to a length of 160 mm.
-2. Bend one end of the rod 90 degrees at a distance of about 12 mm from one end, in any direction.
-3. Bend the next 90 degrees back in the same direction the rod was originally heading, at a distance of about 8 mm.
-4. Repeat steps 2 and 3 for the other side as well, but make sure the rod stays flat overall. The central part of the metal rod will have a length of about 120 mm.
+1. Cut a 1.6mm rod to a length of 152mm.
+2. Make marks with a pencil on the rod on either side at 16mm and 10mm.
+3. Bend one end of the rod at the 10mm mark 90 degrees, in any direction. Ideally, use a heavy-duty needle nose plier and bend just right before the mark. That way the bend will extend beyond the 10mm mark as expected with the measurement. The bend starts at 10mm.
+4. Bend the next 90 degrees back in the same direction the rod was originally heading at the 16mm mark. Do the same as bfore: start bending it right before the mark.
+5. Repeat steps 2 and 3 for the other side as well, but make sure the rod stays flat overall. The central part of the metal rod will have a length of about 120 mm.
 
 **Note**: Ensure that the metal rod lies somewhat flat when placed on a table. You can twist the bends slightly to correct their direction, making them flat.
+
+## Changelog
+
+### 21st Jan 2024
+
+- Updates to metal rod section: more accurate numbers and photo of result.
+- Addition of chamfer to model to closely resemble original
+- Addition of printable version: clip sides are flattened to read bed
