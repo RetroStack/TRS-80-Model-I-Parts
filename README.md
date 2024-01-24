@@ -68,7 +68,7 @@ It seems like an item you need is missing. If so, you can request it on my Patre
 
 ## Main TRS-80 Model 1 Repository
 
-For additional resources related to the TRS-80 Model 1, be sure to check out the central page for the TRS-80 Model 1 on RetroStack. You can find it [here](https://www.github.com/RetroStack/TRS-80-Model-I).
+For additional resources related to the TRS-80 Model 1, be sure to check out the [central page for the TRS-80 Model 1](https://www.github.com/RetroStack/TRS-80-Model-I) on [RetroStack](https://www.github.com/RetroStack).
 
 ## Support this Project
 
