@@ -1,23 +1,36 @@
-# TRS-80 Model 1 - Keyboard Stem (for ALPS Keyboard) - 3D Printer
+# TRS-80 Model 1 - Keyboard Shield (for ALPS Keyboard)
 
-The stem transfers the force from a finger press on the keycap to the spring and simultaneously presses the metal flap inside the button, creating the contact needed for the button press to be recognized. These components easily break and often require replacement.
-
-## STL
+The keyboard shield has a few functions:
+- Protects the keyboard PCB and mainboard PCB from extenal factors.
+- Keeps the keycaps at a specified place and distance to the case.
+- Separates the keyboard PCB from the main PCB
 
 ![View 1](Images/Keyboard_Shield_1.png)
 ![View 2](Images/Keyboard_Shield_2.png)
+
+There are a few versions for this part:
+
+## STEP
+
+This is a sheet metal version of the keyboard shield replica. You can use the STEP file to submit it to online sheet metal fabs like SendCutSend, Fabworks, or PCBWay.
+
+[STEP](Keyboard_Shield_ALPS_v1.step)
+
+## STL
 
 [STL](Keyboard_Stem_ALPS.stl)
 
 ## 3D Printer-Friendly STL
 
+Here is also a 3D printer friendly version.
+
 ![View 1](Images/Keyboard_Shield_Printable_1.png)
 ![View 2](Images/Keyboard_Shield_Printable_2.png)
 
-The original STL is broken down into two STLs to simplify printing on smaller printers (min. 165x136.1x18.3mm).
+The original STL is broken down into two STLs to simplify printing on smaller printers (min. 165x136.1x18.3mm). Only the keyboard (central) STL is important as these are the only 4 points where the keyboard is stabilized from.
 
 [Keyboard STL](Keyboard_Shield_Printable_Main.stl)
-[Number Pad STL](Keyboard_Shield_Printable_Num.stl)
+[Number Pad STL](Keyboard_Shield_Printable_Num.stl) (Optional)
 
 ### Print Instructions
 
