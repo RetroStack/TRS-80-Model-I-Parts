@@ -16,6 +16,8 @@ This is a sheet metal version of the keyboard shield replica. You can use the ST
 
 [STEP](Keyboard_Shield_ALPS_v1.step)
 
+NOTE: This STEP file is setup for 1.5mm thinkness.
+
 ## STL
 
 [STL](Keyboard_Stem_ALPS.stl)
