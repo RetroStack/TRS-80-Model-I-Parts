@@ -1,4 +1,4 @@
-# TRS-80 Model 1 - Keyboard Shield (for ALPS Keyboard)
+# TRS-80 Model 1 - Keyboard Bezel
 
 The keyboard bezel covers the keyboard and closes up the case in the front.
 
