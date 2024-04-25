@@ -34,4 +34,4 @@ NOTE: Most of the time, however, they will also send you an email to confirm tha
 
 ## Use Cases
 
-![Assembled](Images/Use_Case.JPG)
+![Assembled](Images/Use_Case.png)
