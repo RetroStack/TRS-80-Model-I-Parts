@@ -38,6 +38,10 @@ Below is a list of available items, each with a link to a more detailed descript
 
 [![Keyboard Shield](/Keyboard_Shield/Thumb.JPG)](/Keyboard_Shield/)
 
+### Bezel
+
+[![Keyboard Bezel](/Keyboard_Bezel/Thumb.JPG)](/Keyboard_Bezel/)
+
 ## Extension Interface
 
 ### Cover (Medium)

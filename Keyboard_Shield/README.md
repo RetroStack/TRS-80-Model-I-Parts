@@ -23,6 +23,21 @@ Configuration:
 - Bend Radius: 0.762
 - Finish: Matte Black
 
+## Order Instructions - [Fabworks](https://www.fabworks.com)
+
+Go to [Fabworks](https://www.fabworks.com) and drop the [STEP file](/Latest/TRS80_Model_I_Keyboard_MX_E2_Shield.step) into the upload section (or select it by clicking it).
+
+This will open up a new page and show a small preview of the shield. 
+
+- Select the material "Steel 1008".
+- Set thickness to 0.048" or 1.22mm.
+- Select "Matte Black" as finish.
+- (optionally) Modify the quantity
+
+Click on "Checkout".
+
+NOTE: The original shield has a thickness of 1.5mm. However, if you select 1.5mm and the paint of the finish is added, the thickness will increase, and the key switches won't fit anymore (or at least will not click in). Additionally, the design is for 1.22mm. Changing the thickness to another value will change the position of the mounting holes slightly. Small variations, however, should not be problematic.
+
 ## Use Cases
 
 ![Top](Images/DSC00079_Small.JPG)
