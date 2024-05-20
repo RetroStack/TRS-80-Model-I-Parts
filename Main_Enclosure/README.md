@@ -23,12 +23,13 @@ A cross-section of the case:
 
 ### STL
 
+The following files are available in STL format:
+
+- [STL (Top)](Original_Top.stl)
+- [STL (Bottom)](Original_Bottom.stl)
+
 ![View 1](Images/Original_Front.png)
 ![View 2](Images/Original_Back.png)
-
-The following files are available in STL format:
-[STL (Top)](Original_Top.stl)
-[STL (Bottom)](Original_Bottom.stl)
 
 ### Print Instructions
 
@@ -84,12 +85,12 @@ Many of these improvements were suggested by various people, including Amar, Sco
 
 ### STL
 
+The following files are available in STL format:
+- [STL (Top)](Improved_Top.stl)
+- [STL (Bottom)](Improved_Bottom.stl)
+
 ![View 1](Images/Improved_Front.png)
 ![View 2](Images/Improved_Back.png)
-
-The following files are available in STL format:
-[STL (Top)](Improved_Top.stl)
-[STL (Bottom)](Improved_Bottom.stl)
 
 ### Print Instructions
 
