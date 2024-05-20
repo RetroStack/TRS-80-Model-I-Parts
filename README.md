@@ -4,6 +4,10 @@ This project includes various items that were part of a TRS-80 Model 1 and have 
 
 Below is a list of available items, each with a link to a more detailed description and the STL file. If there is an item missing that you need, see the note at the end of this file.
 
+## Main Enclosure
+
+[![Main Enclosure](/Main_Enclosure/Thumb.png)](/Main_Enclosure/)
+
 ## Main Enclosure Panel
 
 [![Main Enclosure Panel](/Main_Enclosure_Panel/Thumb.png)](/Main_Enclosure_Panel/)

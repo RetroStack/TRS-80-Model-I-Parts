@@ -9,6 +9,8 @@ The keyboard shield has a few functions:
 ![View 1](Images/Keyboard_Shield_1.png)
 ![View 2](Images/Keyboard_Shield_2.png)
 
+**NOTE**: If you are looking for the Shield of the MX Keyboard with the longer sides, then please go to the [MX Keyboard repo](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-MX) instead.
+
 ## STEP
 
 This is a sheet metal version of the keyboard shield replica. You can use the STEP file to submit it to online sheet metal fabs like SendCutSend, Fabworks, or PCBWay.
@@ -27,7 +29,7 @@ Configuration:
 
 Go to [Fabworks](https://www.fabworks.com) and drop the [STEP file](/Latest/TRS80_Model_I_Keyboard_MX_E2_Shield.step) into the upload section (or select it by clicking it).
 
-This will open up a new page and show a small preview of the shield. 
+This will open up a new page and show a small preview of the shield.
 
 - Select the material "Steel 1008".
 - Set thickness to 0.048" or 1.22mm.

@@ -2,11 +2,14 @@
 
 The keyboard bezel covers the keyboard and closes up the case in the front.
 
+**NOTE**: If you are looking for the Bezels of the MX Keyboard with the smaller spacebar, then please go to the [MX Keyboard repo](https://github.com/RetroStack/TRS-80-Model-I-Keyboard-MX) instead.
+
 ![View](Images/Keyboard_Bezel.png)
 
 ## STL
 
 Following designs are available in STL format:
+
 - [Full keyboard with Numpad](Bezel_NumPad_Original.stl)
 - [Keyboard without the Numpad](Bezel_Alpha_Original.stl)
 
