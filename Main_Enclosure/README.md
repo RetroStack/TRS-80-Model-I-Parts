@@ -59,7 +59,7 @@ A fully painted case after printing:
 ![Improved Painted](Images/Improved_Painted.png)
 
 A cross-section of the case:
-![Original Cross Section](Images/Origona_Section_Angle.png)
+![Original Cross Section](Images/Improved_Section_Angle.png)
 
 ### Differences to Original
 
