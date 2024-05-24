@@ -64,6 +64,13 @@ This 3D printer-friendly version of the file is divided into parts no larger tha
 
 ![Split Case](Images/Split_Model.png)
 
+- [STL (Top-Left)](Top_Left.stl)
+- [STL (Bottom-Left)](Bottom_Left.stl)
+- [STL (Bottom-Left-Foot)](Bottom_Left_Foot.stl)
+- [STL (Top-Right)](Top_Right.stl)
+- [STL (Bottom-Right)](Bottom_Right.stl)
+- [STL (Bottom-Right-Foot)](Bottom_Right_Foot.stl)
+
 #### Case Parts
 
 The top and bottom are split, and each side can be clipped into the other.
