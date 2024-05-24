@@ -21,6 +21,11 @@ A fully painted case after printing:
 A cross-section of the case:
 ![Original Cross Section](Images/Original_Section_Angle.png)
 
+There are two versions of this:
+
+- A full STL of both the upper and lower parts
+- A split version with parts no larger than 216mm x 205mm to fit many home 3D printers (scroll down)
+
 ### STL
 
 The following files are available in STL format:
@@ -52,6 +57,28 @@ You can then hit "Save to Cart" and checkout.
 By default, they will review your designs and send you an email to pay within a few hours. Simply go back to your order page (after you've created an account) and select "Pay".
 
 NOTE: Most of the time, however, they will also send you an email to confirm that you want to assume the risk of ordering the design as-is as they are too long and may deform during production or have parts which are too thin. I've always accepted the risk and never had any trouble.
+
+### 3D Printer friendly STL
+
+This 3D printer-friendly version of the file is divided into parts no larger than 216mm x 205mm. Each part can be clipped into the other. Additionally, there is a small gap available for glue to permanently affix the case parts together.
+
+![Split Case](Images/Split_Model.png)
+
+#### Case Parts
+
+The top and bottom are split, and each side can be clipped into the other.
+
+![Unclipped Case](Images/Case_Clipped_Off.png)
+![Clipped Case](Images/Case_Clipped_In.png)
+
+#### Foot Parts
+
+The feet can be clipped in by pivoting them into place and then clipping in the other side.
+
+![Unclipped Foot](Images/Foot_Clipped_Off.png)
+![Clipped Foot](Images/Foot_Clipped_In.png)
+
+The top and bottom halves can be screwed together like the original case. Separating the feet will reduce unnecessary support.
 
 ## The Improved
 
@@ -86,6 +113,7 @@ Many of these improvements were suggested by various people, including Amar, Sco
 ### STL
 
 The following files are available in STL format:
+
 - [STL (Top)](Improved_Top.stl)
 - [STL (Bottom)](Improved_Bottom.stl)
 
