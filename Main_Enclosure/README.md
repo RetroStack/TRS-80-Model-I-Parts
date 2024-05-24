@@ -73,12 +73,12 @@ The top and bottom are split, and each side can be clipped into the other.
 
 #### Foot Parts
 
-The feet can be clipped in by pivoting them into place and then clipping in the other side.
+The feet can be clipped in by pivoting them into place and then clipping in the other side. Separating the feet will reduce unnecessary support.
 
 ![Unclipped Foot](Images/Foot_Clipped_Off.png)
 ![Clipped Foot](Images/Foot_Clipped_In.png)
 
-The top and bottom halves can be screwed together like the original case. Separating the feet will reduce unnecessary support.
+The top and bottom halves can be screwed together like the original case. 
 
 ## The Improved
 
