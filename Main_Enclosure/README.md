@@ -64,6 +64,13 @@ This 3D printer-friendly version of the file is divided into parts no larger tha
 
 ![Split Case](Images/Split_Model.png)
 
+- [STL (Top-Left)](Top_Left.stl)
+- [STL (Bottom-Left)](Bottom_Left.stl)
+- [STL (Bottom-Left-Foot)](Bottom_Left_Foot.stl)
+- [STL (Top-Right)](Top_Right.stl)
+- [STL (Bottom-Right)](Bottom_Right.stl)
+- [STL (Bottom-Right-Foot)](Bottom_Right_Foot.stl)
+
 #### Case Parts
 
 The top and bottom are split, and each side can be clipped into the other.
@@ -73,12 +80,12 @@ The top and bottom are split, and each side can be clipped into the other.
 
 #### Foot Parts
 
-The feet can be clipped in by pivoting them into place and then clipping in the other side.
+The feet can be clipped in by pivoting them into place and then clipping in the other side. Separating the feet will reduce unnecessary support.
 
 ![Unclipped Foot](Images/Foot_Clipped_Off.png)
 ![Clipped Foot](Images/Foot_Clipped_In.png)
 
-The top and bottom halves can be screwed together like the original case. Separating the feet will reduce unnecessary support.
+The top and bottom halves can be screwed together like the original case. 
 
 ## The Improved
 
