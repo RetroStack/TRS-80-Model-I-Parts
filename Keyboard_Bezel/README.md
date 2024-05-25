@@ -38,3 +38,13 @@ NOTE: Most of the time, however, they will also send you an email to confirm tha
 ## Use Cases
 
 ![Assembled](Images/Use_Case.png)
+
+## Special STL
+
+This special bezel can fill the hole of a broken keyboard, using a USB keyboard instead.
+
+In STL format:
+
+- [Keyboard Bezel](Bezel_Alpha_Original_Keys.stl)
+
+![Keyboard Bezel](Images/Keyboard_Bezel_Keys.png)
