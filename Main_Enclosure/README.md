@@ -136,6 +136,8 @@ Use the same print instructions as the original case above.
 
 A smaller version that can hold an emulator that doesn't take up much of your desk space can be interesting for some. This case is just for that: a case for Raspberry Pi's emulators. It provides access to the SD card in the front and access to all the USB connectors through a wider opening in the back where usually the edge connector is.
 
+The case is compatible with Raspberry Pi version 1-3 and Raspberry Pi W. It is not compatible with the latest version 4.
+
 ![Model 1 Mini](Images/Mini_Front.png)
 ![Model 1 Mini](Images/Mini_Back.png)
 ![Model 1 Mini](Images/Mini_Bottom.png)
