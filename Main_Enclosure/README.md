@@ -1,11 +1,12 @@
 # TRS-80 Model 1 - Main Enclosure - 3D Printer
 
-This page provides two different versions of the TRS-80 Model 1 main enclosure:
+This page provides three different versions of the TRS-80 Model 1 main enclosure:
 
 - The original, replicating the original case as closely as possible.
 - The improved, a main enclosure still compatible with the original but with a few enhancements.
+- A mini version for Raspberry Pi emulators.
 
-Both cases are compatible with the original, fitting nicely on top of each other, and the top and bottom parts can replace broken parts of the original case.
+The first two cases are compatible with the original, fitting nicely on top of each other, and the top and bottom parts can replace broken parts of the original case.
 
 Here is a comparison of a painted replica to an original case:
 
@@ -130,3 +131,25 @@ The following files are available in STL format:
 ### Print Instructions
 
 Use the same print instructions as the original case above.
+
+## Mini Case
+
+A smaller version that can hold an emulator that doesn't take up much of your desk space can be interesting for some. This case is just for that: a case for Raspberry Pi's emulators. It provides access to the SD card in the front and access to all the USB connectors through a wider opening in the back where usually the edge connector is.
+
+![Model 1 Mini](Images/Mini_Front.png)
+![Model 1 Mini](Images/Mini_Back.png)
+![Model 1 Mini](Images/Mini_Bottom.png)
+
+Here a quick comparison of sizes of all three cases mentioned here:
+
+![Size Comparison](Images/Comparison.png)
+
+The case also includes a custom Bezel that emulates the original keyboard:
+
+![Mini Bezel](Images/Bezel_Keyboard_Mini.png)
+
+### STL
+
+- [STL (Top)](Top_Mini.stl)
+- [STL (Bottom)](Bottom_Mini.stl)
+- [STL (Bezel)](Bezel_Alpha_Original_Keys_Mini.stl)
