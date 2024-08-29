@@ -72,7 +72,7 @@ NOTE: There are three types of covers used: small, medium, and large. I only hav
 
 ## Missing Item?
 
-It seems like an item you need is missing. If so, you can request it on my Patreon page (see below). However, if I do not have the item myself, then I won't be able to digitize it.
+Is an item you are looking for missing in this repo? Feel free to suggest this item to be digitized on my Patreon page (see below).
 
 ## Main TRS-80 Model 1 Repository
 
